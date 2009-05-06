@@ -1,0 +1,559 @@
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:36:26) [GET]
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/hello_world/speak]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:36:56) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:40:05) [GET]
+Rendering hello_world/speak
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/hello_world/speak]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:42:22) [GET]
+Rendering hello_world/speak
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/hello_world/speak]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:42:27) [GET]
+Rendering hello_world/speak
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:42:39) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:42:43) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:42:46) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:42:48) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:42:49) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:43:00) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:43:02) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:43:11) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:43:14) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:43:17) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:43:18) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:43:19) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:43:21) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:43:31) [GET]
+  Parameters: {"message"=>"hola"}
+Rendering hello_world/speak
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=hola]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:43:46) [GET]
+  Parameters: {"message"=>"waz up!!!!"}
+Rendering hello_world/speak
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak?message=waz+up!!!!]
+
+
+Processing HelloWorldController#speak (for 127.0.0.1 at 2009-05-05 15:43:53) [GET]
+Rendering hello_world/speak
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_world/speak]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-05 15:51:57) [GET]
+
+ActionController::RoutingError (No route matches "/dining/places" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 15:52:08) [GET]
+Rendering dining/places
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 15:55:58) [GET]
+Rendering dining/places
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:00:32) [GET]
+Rendering dining/places
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:00:36) [GET]
+Rendering dining/places
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:00:46) [GET]
+Rendering dining/places
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:02:58) [GET]
+
+NoMethodError (undefined method `where_to_go' for Place:Class):
+  app/controllers/dining_controller.rb:4:in `places'
+
+Rendered rescues/_trace (30.9ms)
+Rendered rescues/_request_and_response (1.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:14) [GET]
+Rendering dining/places
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:16) [GET]
+Rendering dining/places
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:16) [GET]
+Rendering dining/places
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:17) [GET]
+Rendering dining/places
+Completed in 27ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:17) [GET]
+Rendering dining/places
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:17) [GET]
+Rendering dining/places
+Completed in 91ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:18) [GET]
+Rendering dining/places
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:18) [GET]
+Rendering dining/places
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:18) [GET]
+Rendering dining/places
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:19) [GET]
+Rendering dining/places
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:19) [GET]
+Rendering dining/places
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:19) [GET]
+Rendering dining/places
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:19) [GET]
+Rendering dining/places
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:19) [GET]
+Rendering dining/places
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:20) [GET]
+Rendering dining/places
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:20) [GET]
+Rendering dining/places
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:20) [GET]
+Rendering dining/places
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:20) [GET]
+Rendering dining/places
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:21) [GET]
+Rendering dining/places
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:21) [GET]
+Rendering dining/places
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:21) [GET]
+Rendering dining/places
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:21) [GET]
+Rendering dining/places
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:21) [GET]
+Rendering dining/places
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:22) [GET]
+Rendering dining/places
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:22) [GET]
+Rendering dining/places
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:22) [GET]
+Rendering dining/places
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:22) [GET]
+Rendering dining/places
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:22) [GET]
+Rendering dining/places
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:23) [GET]
+Rendering dining/places
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:33) [GET]
+Rendering dining/places
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:04:33) [GET]
+Rendering dining/places
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/dining/places]
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (2.7ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (2.0ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreatePlaces (20090505231403)
+  [4;36;1mSQL (1.5ms)[0m   [0;1mCREATE TABLE "places" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.3ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090505231403')[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("places")[0m
+  [4;36;1mPlace Load (0.3ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Create (0.6ms)[0m   [0mINSERT INTO "places" ("name", "updated_at", "created_at") VALUES('Taco Bell', '2009-05-05 23:21:12', '2009-05-05 23:21:12')[0m
+  [4;36;1mPlace Create (0.5ms)[0m   [0;1mINSERT INTO "places" ("name", "updated_at", "created_at") VALUES('McD''s', '2009-05-05 23:21:55', '2009-05-05 23:21:55')[0m
+  [4;35;1mPlace Create (0.4ms)[0m   [0mINSERT INTO "places" ("name", "updated_at", "created_at") VALUES('Subway', '2009-05-05 23:22:11', '2009-05-05 23:22:11')[0m
+  [4;36;1mPlace Create (0.4ms)[0m   [0;1mINSERT INTO "places" ("name", "updated_at", "created_at") VALUES('Burger King', '2009-05-05 23:22:17', '2009-05-05 23:22:17')[0m
+  [4;35;1mPlace Load (0.5ms)[0m   [0mSELECT * FROM "places" [0m
+  [4;36;1mPlace Load (0.9ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.4ms)[0m   [0mSELECT * FROM "places" LIMIT 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:27:43) [GET]
+  [4;36;1mPlace Load (0.7ms)[0m   [0;1mSELECT * FROM "places" [0m
+Rendering dining/places
+Completed in 12ms (View: 5, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:27:45) [GET]
+  [4;35;1mPlace Load (1.1ms)[0m   [0mSELECT * FROM "places" [0m
+Rendering dining/places
+Completed in 7ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+  [4;35;1mPlace Load (0.8ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+  [4;36;1mPlace Load (0.9ms)[0m   [0;1mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+  [4;35;1mPlace Load (0.7ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+  [4;36;1mPlace Load (0.7ms)[0m   [0;1mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+  [4;35;1mPlace Load (1.0ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+  [4;36;1mPlace Load (0.8ms)[0m   [0;1mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+  [4;35;1mPlace Load (1.3ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+  [4;36;1mPlace Load (0.9ms)[0m   [0;1mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+  [4;35;1mPlace Load (1.2ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+  [4;36;1mPlace Load (0.6ms)[0m   [0;1mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+  [4;35;1mPlace Load (0.7ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+  [4;36;1mPlace Load (0.8ms)[0m   [0;1mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:01) [GET]
+  [4;36;1mPlace Load (0.6ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.7ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 80ms (View: 74, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:02) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.5ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 6ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:03) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 11ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:03) [GET]
+  [4;36;1mPlace Load (1.8ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 10ms (View: 2, DB: 2) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:03) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.7ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 7ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:04) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 6ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:04) [GET]
+  [4;36;1mPlace Load (0.7ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.7ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 8ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:04) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 17ms (View: 11, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:05) [GET]
+  [4;36;1mPlace Load (0.6ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 9ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:05) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.5ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 6ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:05) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 6ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:05) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 6ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:06) [GET]
+  [4;36;1mPlace Load (0.6ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.8ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 8ms (View: 3, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:06) [GET]
+  [4;36;1mPlace Load (1.2ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 135ms (View: 2, DB: 2) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:06) [GET]
+  [4;36;1mPlace Load (0.6ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 7ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:06) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 7ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:07) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.7ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 9ms (View: 3, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:07) [GET]
+  [4;36;1mPlace Load (0.6ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.7ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 11ms (View: 5, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:07) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.7ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 6ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:07) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 6ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:09) [GET]
+  [4;36;1mPlace Load (0.6ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 7ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:09) [GET]
+  [4;36;1mPlace Load (0.7ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.5ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 7ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:10) [GET]
+  [4;36;1mPlace Load (0.6ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 8ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:10) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 10ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:10) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (0.6ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 7ms (View: 2, DB: 1) | 200 OK [http://localhost/dining/places]
+
+
+Processing DiningController#places (for 127.0.0.1 at 2009-05-05 16:31:10) [GET]
+  [4;36;1mPlace Load (0.5ms)[0m   [0;1mSELECT * FROM "places" [0m
+  [4;35;1mPlace Load (1.3ms)[0m   [0mSELECT * FROM "places" ORDER BY random() LIMIT 1[0m
+Rendering dining/places
+Completed in 8ms (View: 2, DB: 2) | 200 OK [http://localhost/dining/places]

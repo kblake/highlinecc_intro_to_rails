@@ -1,0 +1,7 @@
+<h1>Dining places to eat!</h1>
+<strong>Let's go to <%= @where_to_go.name %></strong>
+<ul>
+  <% @places.each do |place| %>
+    <li><%= place.name %></li>
+  <% end %>
+</ul>
